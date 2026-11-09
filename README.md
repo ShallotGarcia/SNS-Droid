@@ -64,6 +64,6 @@ Si encuentras un problema, cuéntame qué teléfono y versión de Android usas, 
 
 ## Capturas
 
-![Pantalla de bienvenida](capturas/bienvenida.jpg)
+![Pantalla de bienvenida](capturas/1-bienvenida.jpg)
 
 Pantalla de bienvenida
