@@ -70,3 +70,8 @@ Pantalla de bienvenida
 ![Pantalla principal](capturas/1-2-principal.jpg)
 
 Pantalla principal
+
+
+Biblioteca de SNS Droid
+
+![Biblioteca de SNS Droid](capturas/1-biblioteca.jpg)
