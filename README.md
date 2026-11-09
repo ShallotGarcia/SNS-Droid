@@ -53,7 +53,7 @@ Requiere Android 6.0 o posterior.
 
 Es una Beta: todavía puede tener fallos. No garantizo compatibilidad con todos los juegos o mandos. ST011 y ST018 tienen soporte parcial; Super Game Boy no está implementado.
 
-Si encuentras un problema, cuéntame qué teléfono y versión de Android usas, qué juego abriste y qué pasó, o abre un issue en este repositorio. No adjuntes juegos, BIOS ni información privada.
+Si encuentras un problema, cuéntame qué teléfono y versión de Android usas, qué juego abriste y qué pasó, o abre un issue en este repositorio.
 
 ## Cómo instalar
 
