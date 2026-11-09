@@ -75,3 +75,7 @@ Pantalla principal
 Biblioteca de SNS Droid
 
 ![Biblioteca de SNS Droid](capturas/1-biblioteca.jpg)
+
+![Biblioteca con juegos](capturas/2-biblioteca-juegos.jpg)
+
+Biblioteca con juegos
