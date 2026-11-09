@@ -79,3 +79,10 @@ Biblioteca de SNS Droid
 ![Biblioteca con juegos](capturas/2-biblioteca-juegos.jpg)
 
 Biblioteca con juegos
+
+### Ajustes
+
+<p align="center">
+  <img src="capturas/2-ajustes-rev11-arriba.png" alt="Ajustes: parte superior" width="270">
+  <img src="capturas/3-ajustes-rev11-abajo.png" alt="Ajustes: parte inferior" width="270">
+</p>
