@@ -19,7 +19,6 @@ Qué trae
 - Escanear juegos: eliges una carpeta y tus juegos se añaden a la Biblioteca.
 - Carátulas que se descargan solas cuando hay internet.
 - Controles táctiles ajustables y asignación de botones del mando.
-- Diagnóstico de botones del mando, en Ajustes > Controles.
 - Cuatro ranuras de guardado, autoguardado, avance rápido y rebobinado según la memoria disponible.
 - Ajustes de imagen, sonido, orientación y apariencia.
 - Idioma: Español, Español de España, English y Português de Brasil.
