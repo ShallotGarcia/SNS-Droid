@@ -61,3 +61,9 @@ Si encuentras un problema, cuéntame qué teléfono y versión de Android usas, 
 1. Entra a la sección Releases y descarga el archivo APK más reciente.
 2. Ábrelo en tu teléfono. Si Android te lo pide, permite instalar apps desde esta fuente.
 3. Abre SNS Droid y elige la carpeta donde tienes tus juegos.
+
+## Capturas
+
+![Pantalla de bienvenida](capturas/bienvenida.jpg)
+
+Pantalla de bienvenida
