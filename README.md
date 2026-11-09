@@ -64,13 +64,13 @@ Si encuentras un problema, cuéntame qué teléfono y versión de Android usas, 
 ## Capturas
 
 <p align="center">
-  <img src="capturas/1-bienvenida.jpg?v=rev11-recorte" alt="Pantalla de bienvenida" title="Pantalla de bienvenida" height="300">
-  <img src="capturas/1-2-principal.jpg?v=rev11-recorte" alt="Pantalla principal" title="Pantalla principal" height="300">
-  <img src="capturas/1-biblioteca.jpg?v=rev11-recorte" alt="Biblioteca vacía" title="Biblioteca vacía" height="300">
+  <img src="https://raw.githubusercontent.com/ShallotGarcia/SNS-Droid/main/capturas/1-bienvenida.jpg" alt="Pantalla de bienvenida" title="Pantalla de bienvenida" height="300">
+  <img src="https://raw.githubusercontent.com/ShallotGarcia/SNS-Droid/main/capturas/1-2-principal.jpg" alt="Pantalla principal" title="Pantalla principal" height="300">
+  <img src="https://raw.githubusercontent.com/ShallotGarcia/SNS-Droid/main/capturas/1-biblioteca.jpg" alt="Biblioteca vacía" title="Biblioteca vacía" height="300">
 </p>
 
 <p align="center">
-  <img src="capturas/2-biblioteca-juegos.jpg?v=rev11-recorte" alt="Biblioteca con juegos" title="Biblioteca con juegos" height="300">
+  <img src="https://raw.githubusercontent.com/ShallotGarcia/SNS-Droid/main/capturas/2-biblioteca-juegos.jpg" alt="Biblioteca con juegos" title="Biblioteca con juegos" height="300">
   <img src="capturas/2-ajustes-rev11-arriba.png" alt="Ajustes: parte superior" title="Ajustes: parte superior" height="300">
   <img src="capturas/3-ajustes-rev11-abajo.png" alt="Ajustes: parte inferior" title="Ajustes: parte inferior" height="300">
 </p>
