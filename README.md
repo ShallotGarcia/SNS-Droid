@@ -55,7 +55,6 @@ Es una Beta: todavía puede tener fallos. No prometo compatibilidad con todos lo
 
 Si encuentras un problema, cuéntame qué teléfono y versión de Android usas, qué juego abriste y qué pasó, o abre un issue en este repositorio. No adjuntes juegos, BIOS ni información privada.
 
-
 ## Cómo instalar
 
 1. Entra a la sección Releases y descarga el archivo APK más reciente.
