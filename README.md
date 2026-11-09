@@ -67,3 +67,7 @@ Si encuentras un problema, cuéntame qué teléfono y versión de Android usas, 
 ![Pantalla de bienvenida](capturas/1-bienvenida.jpg)
 
 Pantalla de bienvenida
+
+![Pantalla principal](capturas/1-2-principal.jpg)
+
+Pantalla principal
