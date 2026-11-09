@@ -16,9 +16,13 @@ Con esta Beta 2 ya lo comparto para que lo prueben.
 
 Qué trae
 - Biblioteca con buscador, Recientes, Favoritos y Me gusta.
+- Escanear juegos: eliges una carpeta y tus juegos se añaden a la Biblioteca.
+- Carátulas que se descargan solas cuando hay internet.
 - Controles táctiles ajustables y asignación de botones del mando.
+- Diagnóstico de botones del mando, en Ajustes > Controles.
 - Cuatro ranuras de guardado, autoguardado, avance rápido y rebobinado según la memoria disponible.
 - Ajustes de imagen, sonido, orientación y apariencia.
+- Idioma: Español, Español de España, English y Português de Brasil.
 - Música por pantalla, opción de elegir tus propios archivos de música y sonidos distintos para toque y mando.
 - Apertura de juegos sueltos o en ZIP y 7z, dentro de los formatos admitidos.
 - Parches IPS, BPS y UPS para guardar una copia modificada sin cambiar el original.
@@ -26,6 +30,8 @@ Qué trae
 
 Parches
 Con SNS Droid ya no necesitas aplicaciones aparte como Delta Patcher para parchear tus juegos de Super Nintendo: el emulador tiene su propio sistema de parcheado y guarda una copia sin cambiar el original.
+
+Si ya tienes juegos parcheados, puedes marcarlos en Ajustes > Registrar juego parcheado existente: eliges un juego de tu Biblioteca, confirmas que ya está parcheado y queda marcado. Las copias que creas con Parches quedan marcadas solas como parcheadas. En la Biblioteca, a un juego marcado le puedes poner un nombre y cambiar el nombre de su archivo.
 
 Cómo se parchea
 1. En la pantalla de inicio entra en Parches.
