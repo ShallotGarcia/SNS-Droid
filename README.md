@@ -6,7 +6,7 @@ Les presento SNS Droid, un emulador de Super Nintendo para Android. Nació de un
 
 Es una app para jugar juegos de Super Nintendo en tu celular Android.
 
-Cómo empezó: todo comenzó con mi idea de tener un emulador propio. Le puse el nombre, decidí cómo debía verse y funcionar, y lo fui armando paso a paso. Empecé con versiones de prueba, lo probé en un dispositivo y fui corrigiendo lo que fallaba. Luego pasé a las versiones Alpha y ahora llegué a esta Beta.
+Cómo empezó: todo comenzó con mi idea de tener un emulador propio. Le puse el nombre, decidí cómo debía verse y funcionar, y lo fui armando paso a paso. Empecé con versiones de prueba y fui corrigiendo lo que fallaba. Luego pasé a las versiones Alpha y ahora llegué a esta Beta.
 
 Qué fui agregando: biblioteca con buscador, controles táctiles que se pueden mover, soporte para mandos con botones configurables, guardados rápidos y autoguardado, música y sonidos personalizables, y la sección de Parches para aplicar hacks y traducciones sin tocar el juego original. También fue idea mía agregar "Me gusta" y "Favoritos", al estilo de TikTok, para darle un toque moderno a un emulador retro.
 
