@@ -6,19 +6,19 @@ Imagen de presentación del proyecto. Es distinta del icono fijo de Android y de
 
 # SNS Droid
 
-Les presento SNS Droid, un emulador de Super Nintendo para Android. Nació de una idea mía y es mi primer proyecto.
+SNS Droid es un emulador de Super Nintendo para Android. Nació como un primer proyecto, a partir de la idea de crear un emulador propio.
 
 ¿Qué es SNS Droid?
 
 Es una app para jugar juegos de Super Nintendo en tu celular Android.
 
-Cómo empezó: todo comenzó con mi idea de tener un emulador propio. Le puse el nombre, decidí cómo debía verse y funcionar, y lo fui armando paso a paso. Empecé con versiones de prueba y fui corrigiendo lo que fallaba. Luego pasé a las versiones Alpha y ahora llegué a esta Beta.
+Cómo empezó: el proyecto comenzó con la idea de tener un emulador propio, con su nombre y sus decisiones de diseño y funcionamiento. Se fue armando paso a paso, desde las versiones de prueba y las correcciones de fallos hasta las versiones Alpha y esta Beta.
 
-Qué fui agregando: biblioteca con buscador, controles táctiles que se pueden mover, soporte para mandos con botones configurables, guardados rápidos y autoguardado, música y sonidos personalizables, y la sección de Parches para aplicar hacks y traducciones sin tocar el juego original. También fue idea mía agregar "Me gusta" y "Favoritos", al estilo de TikTok, para darle un toque moderno a un emulador retro.
+Qué se fue agregando: biblioteca con buscador, controles táctiles que se pueden mover, soporte para mandos con botones configurables, guardados rápidos y autoguardado, música y sonidos personalizables, y la sección de Parches para aplicar hacks y traducciones sin tocar el juego original. También se agregaron "Me gusta" y "Favoritos", al estilo de TikTok, para darle un toque moderno a un emulador retro.
 
-Compatibilidad: trabajé para que funcione en Android 6 hasta Android 16, con juegos de las regiones Japón, Estados Unidos y Europa, en ZIP y 7z, y con ROM hacks y juegos parcheados. También lo fui ajustando para que corra mejor en teléfonos de pocos recursos.
+Compatibilidad: se trabajó para que funcione en Android 6 hasta Android 16, con juegos de las regiones Japón, Estados Unidos y Europa, en ZIP y 7z, y con ROM hacks y juegos parcheados. También se fue ajustando para que corra mejor en teléfonos de pocos recursos.
 
-Con esta Beta 2 ya lo comparto para que lo prueben.
+Esta Beta 3 ya está disponible para probarla.
 
 Qué trae
 - Biblioteca con buscador, Recientes, Favoritos y Me gusta.
@@ -56,9 +56,9 @@ Usa la versión exacta del juego que pide el parche.
 
 Requiere Android 6.0 o posterior.
 
-Es una Beta: todavía puede tener fallos. No garantizo compatibilidad con todos los juegos o mandos. ST011 y ST018 tienen soporte parcial; Super Game Boy no está implementado.
+Es una Beta: todavía puede tener fallos. No se garantiza compatibilidad con todos los juegos o mandos. ST011 y ST018 tienen soporte parcial; Super Game Boy no está implementado.
 
-Si encuentras un problema, cuéntame qué teléfono y versión de Android usas, qué juego abriste y qué pasó, o abre un issue en este repositorio.
+Para reportar un problema, se puede abrir un issue en este repositorio e indicar el teléfono, la versión de Android, el juego que se abrió y qué ocurrió.
 
 ## Cómo instalar
 
