@@ -30,9 +30,9 @@ Entra en "Mis juegos" desde la pantalla de inicio para abrir la Biblioteca.
 - Buscador: escribe parte del nombre para encontrar un juego en la lista.
 - "Recientes": muestra los juegos que has abierto, del más reciente al más antiguo.
 - "Favoritos": reúne los juegos que marcas con la estrella. Tócala de nuevo para quitar la marca.
-- "Me gusta": reúne los juegos que marcas con el corazón, incluidos los que ya tenías marcados. Toca el corazón para marcar o quitar Me gusta. Es una marca distinta de Favoritos; una no activa la otra.
+- "Me gusta": reúne los juegos que marcas con el corazón, incluidos los que ya tenías marcados. Es una pestaña solo para consultarlos: tocar un juego o confirmar con el mando no lo inicia. Toca el corazón para marcar o quitar Me gusta. Es una marca distinta de Favoritos; una no activa la otra.
 - Carátulas: las carátulas se descargan automáticamente cuando tienes conexión a internet, ya sea con datos móviles o Wi-Fi. Las que ya se descargaron siguen disponibles sin conexión. Si no hay una carátula guardada, no se encuentra una o no se puede descargar, se muestra un cuadro de color con las iniciales del nombre del juego; si no se pueden formar iniciales, aparece "SNES". El nombre del juego sigue visible.
-- Para jugar, toca un juego de la lista. Puedes abrir juegos sueltos o dentro de ZIP y 7z, en los formatos admitidos.
+- Para jugar, toca un juego desde Biblioteca, Recientes o Favoritos. Puedes abrir juegos sueltos o dentro de ZIP y 7z, en los formatos admitidos.
 
 "Me gusta" y "Favoritos" están inspirados en la idea de marcar contenido en TikTok. Son marcas locales de tus juegos, no una conexión con esa red social.
 
