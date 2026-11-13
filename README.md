@@ -55,7 +55,7 @@ Permite aplicar traducciones y modificaciones con parches IPS, BPS o UPS. Se gua
 6. Se pulsa "Aplicar y guardar". Para IPS aparece antes un aviso: ese formato no comprueba que la ROM base sea la correcta. Después se abre el selector de Android para elegir el nombre y el destino de la copia.
 7. Cuando termina, aparece "Parche aplicado con éxito." y se puede usar "Ver el parche guardado". La copia se registra como juego parcheado. Para añadirla a la Biblioteca se puede escanear la carpeta donde se guardó.
 
-Los juegos ya parcheados fuera de la app pueden marcarse desde Ajustes > Registrar juego parcheado existente. Las copias creadas con Parches quedan marcadas automáticamente. En la Biblioteca se puede cambiar el nombre de los juegos marcados y, cuando corresponde, el de su archivo.
+Los juegos ya parcheados fuera de la app pueden marcarse desde Ajustes > Registrar juego parcheado existente. Las copias creadas con Parches quedan marcadas automáticamente.
 
 
 ### Formatos de juego
