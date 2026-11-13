@@ -16,7 +16,7 @@ Cómo empezó: el proyecto comenzó con la idea de tener un emulador propio, con
 
 Qué se fue agregando: biblioteca con buscador, controles táctiles que se pueden mover, soporte para mandos con botones configurables, guardados rápidos y autoguardado, música y sonidos personalizables, y la sección de Parches para aplicar hacks y traducciones sin tocar el juego original. También se agregaron "Me gusta" y "Favoritos", al estilo de TikTok, para darle un toque moderno a un emulador retro.
 
-Compatibilidad: se trabajó para que funcione en Android 6 hasta Android 16, con juegos de las regiones Japón, Estados Unidos y Europa, en ZIP y 7z, y con ROM hacks y juegos parcheados. También se fue ajustando para que corra mejor en teléfonos de pocos recursos.
+Compatibilidad: se trabajó para que funcione en Android 6 hasta Android 16, con juegos en ZIP y 7z, ROM hacks y juegos parcheados. Admite juegos de SNES de Japón, Estados Unidos y Europa, con detección automática de NTSC/PAL según la cabecera de la ROM, sin garantizar compatibilidad con todo el catálogo. También se fue ajustando para que corra mejor en teléfonos de pocos recursos.
 
 Esta Beta 3 ya está disponible para probarla.
 
@@ -30,29 +30,27 @@ Qué trae
 - Idioma: Español, Español de España, English y Português de Brasil.
 - Música por pantalla, opción de elegir tus propios archivos de música y sonidos distintos para toque y mando.
 - Apertura de juegos sueltos o en ZIP y 7z, dentro de los formatos admitidos.
-- Parches IPS, BPS y UPS para guardar una copia modificada sin cambiar el original.
+- Parcheado integrado para juegos de SNES: aplica archivos IPS, BPS o UPS descargados por separado, sin otras apps ni páginas web de parcheado para los formatos admitidos. Guarda una copia nueva, sin modificar el original, suelta o en ZIP/7z.
 - Reportes de fallos y medición de rendimiento.
 
-Parches
-Con SNS Droid ya no necesitas aplicaciones aparte como Delta Patcher para parchear tus juegos de Super Nintendo: el emulador tiene su propio sistema de parcheado y guarda una copia sin cambiar el original.
+## Parches para Super Nintendo
 
-Si ya tienes juegos parcheados, puedes marcarlos en Ajustes > Registrar juego parcheado existente: eliges un juego de tu Biblioteca, confirmas que ya está parcheado y queda marcado. Las copias que creas con Parches quedan marcadas solas como parcheadas. En la Biblioteca, a un juego marcado le puedes poner un nombre y cambiar el nombre de su archivo.
+SNS Droid incluye su propio sistema de parcheado para juegos de Super Nintendo. Para aplicar parches IPS, BPS o UPS compatibles no hace falta usar otras apps como UniPatcher o ROM Patcher, ni páginas web de parcheado (hay varias, como Rom Patcher JS): el parche se descarga por separado y se aplica dentro del emulador.
 
-Cómo se parchea
-1. En la pantalla de inicio entra en Parches.
-2. Elige la ROM original, suelta o dentro de un ZIP o 7z.
-3. Elige el parche.
-4. Elige el formato del juego resultante. Puedes dejarlo en Automático.
-5. Elige cómo guardar la copia: sin comprimir, ZIP o 7z.
-6. Pulsa Aplicar y guardar y elige dónde guardarla.
+Permite aplicar traducciones y modificaciones con parches IPS, BPS o UPS. Se guarda una copia nueva; la ROM original y el archivo del parche no se modifican. El parche debe corresponder a la versión, región y cabecera exactas de la ROM base que indique su autor.
 
-Formatos de parche: IPS, BPS y UPS.
+### Cómo se aplica un parche
 
-Formatos del juego base: .sfc, .smc, .fig, .swc, .bin, .rom, .bs, .st, .gd3, .gd7, .dx2, .ufo, .mgd y .mgh, sueltos o dentro de ZIP o 7z.
+1. Desde la pantalla de inicio se abre Parches.
+2. En "1. Elegir ROM original (suelta o en ZIP/7z)" se selecciona el juego base. Si está comprimido, el ZIP o 7z debe contener un solo juego; si hay varios, la app no elige uno automáticamente.
+3. En "2. Elegir parche IPS, BPS o UPS" se selecciona el archivo del parche ya descargado y sin comprimir.
+4. En "3. Formato del juego resultante" se puede dejar activado "Automático: conservar contenido y formato". Conserva exactamente el resultado del parche, sin convertir cabeceras ni reorganizar datos. Conserva la extensión de los formatos antiguos; para los demás propone .sfc. Al desactivar Automático aparece "Formato de salida" para elegir una conversión admitida.
+5. En "4. Cómo guardar la copia" se elige Sin comprimir, ZIP o 7z. Si se usa compresión, aparece "5. Nivel de compresión", con Rápida, Normal o Máxima.
+6. Se pulsa "Aplicar y guardar". Para IPS aparece antes un aviso: ese formato no comprueba que la ROM base sea la correcta. Después se abre el selector de Android para elegir el nombre y el destino de la copia.
+7. Cuando termina, aparece "Parche aplicado con éxito." y se puede usar "Ver el parche guardado". La copia se registra como juego parcheado. Para añadirla a la Biblioteca se puede escanear la carpeta donde se guardó.
 
-Formatos del juego resultante: son nueve opciones: .sfc, .smc, .swc, .fig, .dx2, .ufo, .gd3, .gd7 y MGD/MGH (conjunto de archivos). También está Automático, que conserva el resultado del parche tal cual.
+Los juegos ya parcheados fuera de la app pueden marcarse desde Ajustes > Registrar juego parcheado existente. Las copias creadas con Parches quedan marcadas automáticamente. En la Biblioteca se puede cambiar el nombre de los juegos marcados y, cuando corresponde, el de su archivo.
 
-Usa la versión exacta del juego que pide el parche.
 
 Requiere Android 6.0 o posterior.
 
