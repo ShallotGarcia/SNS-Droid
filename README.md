@@ -58,6 +58,32 @@ Permite aplicar traducciones y modificaciones con parches IPS, BPS o UPS. Se gua
 Los juegos ya parcheados fuera de la app pueden marcarse desde Ajustes > Registrar juego parcheado existente. Las copias creadas con Parches quedan marcadas automáticamente. En la Biblioteca se puede cambiar el nombre de los juegos marcados y, cuando corresponde, el de su archivo.
 
 
+### Formatos de juego
+
+Puedes abrir juegos sueltos con extensión .sfc, .smc, .fig, .swc, .bin, .rom, .bs o .st, y juegos dentro de ZIP o 7z. La extensión por sí sola no garantiza que un juego sea compatible.
+
+También se admiten imágenes antiguas completas .gd3, .gd7, .dx2, .ufo, .mgd y .mgh cuando pasan la validación del formato. Los conjuntos MGD/MGH necesitan un archivo de juego SF completo con extensión .048, .058 o .078; MULTI-GD es su índice, no un juego. No se unen partes divididas automáticamente.
+
+### Formatos al guardar un juego parcheado
+
+Puedes dejar "Automático: conservar contenido y formato" para conservar los bytes que produce el parche, sin conversión. En los formatos antiguos conserva la extensión; para los demás propone .sfc.
+
+Si desactivas Automático, tienes nueve opciones: .sfc, .smc, .swc, .fig, .dx2, .ufo, .gd3, .gd7 y "MGD/MGH - conjunto de archivos". Son opciones de salida del parcheado, no los nueve formatos de juego en total. La conversión solo se permite para imágenes compatibles; no basta con cambiar la extensión. La conversión manual solo admite juegos completos compatibles de hasta 4 MB y sin chips especiales. MGD/MGH requiere LoROM y no admite partes divididas.
+
+### Nombre de la copia parcheada
+
+La app propone el nombre del archivo del parche, sin .ips, .bps o .ups. No añade la palabra "parche". Si tu parche se llama "Mi traducción.bps" y eliges salida .sfc:
+
+- Sin comprimir: "Mi traducción.sfc".
+- ZIP: "Mi traducción.zip", con "Mi traducción.sfc" dentro.
+- 7z: "Mi traducción.7z", con "Mi traducción.sfc" dentro.
+
+Puedes cambiar el nombre y el destino del archivo exterior en el selector de Android. Cambiar el nombre exterior no cambia el nombre del juego dentro del ZIP o 7z.
+
+MGD/MGH es distinto: conserva los nombres técnicos del juego SF y de MULTI-GD. Sin comprimir, la app crea una subcarpeta nueva con el nombre del parche. En ZIP o 7z, el contenedor toma el nombre del parche y dentro conserva los nombres técnicos.
+
+La ROM original y el parche no se modifican.
+
 Requiere Android 6.0 o posterior.
 
 Es una Beta: todavía puede tener fallos. No se garantiza compatibilidad con todos los juegos o mandos. ST011 y ST018 tienen soporte parcial; Super Game Boy no está implementado.
