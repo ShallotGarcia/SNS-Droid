@@ -39,8 +39,6 @@ Qué trae
 - 13 efectos de imagen, 12 máscaras y ajustes de tamaño, posición, rotación y colores.
 - Trucos, retroceso, cámara lenta y autoguardado periódico configurables.
 
-En algunos dispositivos podría no abrirse Apariencia. El problema sigue en investigación; puede reportarse desde Ajustes > General > Reportar fallos.
-
 ## Parches para Super Nintendo
 
 SNS Droid incluye su propio sistema de parcheado para juegos de Super Nintendo. Para aplicar parches IPS, BPS o UPS compatibles no hace falta usar otras apps como UniPatcher o ROM Patcher, ni páginas web de parcheado (hay varias, como Rom Patcher JS): el parche se descarga por separado y se aplica dentro del emulador.
