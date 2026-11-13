@@ -2,6 +2,8 @@
   <a href="1-sns-droid-logo.png"><img src="1-sns-droid-logo.png" alt="SNS Droid" width="420"></a>
 </p>
 
+Imagen de presentación del proyecto. Es distinta del icono fijo de Android y de los 18 diseños de logo que se muestran dentro de la app.
+
 # SNS Droid
 
 Les presento SNS Droid, un emulador de Super Nintendo para Android. Nació de una idea mía y es mi primer proyecto.
