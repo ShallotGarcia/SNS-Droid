@@ -26,12 +26,20 @@ Qué trae
 - Carátulas que se descargan solas cuando hay internet.
 - Controles táctiles ajustables y asignación de botones del mando.
 - Cuatro ranuras de guardado, autoguardado, avance rápido y rebobinado según la memoria disponible.
-- Ajustes de imagen, sonido, orientación y apariencia.
 - Idioma: Español, Español de España, English y Português de Brasil.
-- Música por pantalla, opción de elegir tus propios archivos de música y sonidos distintos para toque y mando.
 - Apertura de juegos sueltos o en ZIP y 7z, dentro de los formatos admitidos.
 - Parcheado integrado para juegos de SNES: aplica archivos IPS, BPS o UPS descargados por separado, sin otras apps ni páginas web de parcheado para los formatos admitidos. Guarda una copia nueva, sin modificar el original, suelta o en ZIP/7z.
 - Reportes de fallos y medición de rendimiento.
+
+- Logo dentro de la app con 18 diseños: seis de día, seis de tarde y seis de noche. En Ajustes > Apariencia > Logo de la app puedes elegir Según la hora del día, Cambiar cada vez que abro la app o Fijo, yo lo elijo.
+- Icono fijo en la pantalla de inicio de Android: un mando dorado con las letras SNS sobre fondo morado con estrellas. Es distinto de los logos de dentro de la app y de la imagen de presentación de GitHub.
+- Música por pantalla, con temas de la app o archivos que tú elijas. Se activa en Ajustes > Sonidos > Música.
+- Efectos de sonido que se pueden silenciar juntos en Ajustes > Sonidos, sin apagar el audio del juego.
+- Detección automática de mandos compatibles, con aviso en pantalla.
+- 13 efectos de imagen, 12 máscaras y ajustes de tamaño, posición, rotación y colores.
+- Trucos, retroceso, cámara lenta y autoguardado periódico configurables.
+
+En algunos dispositivos podría no abrirse Apariencia. El problema sigue en investigación; puede reportarse desde Ajustes > General > Reportar fallos.
 
 ## Parches para Super Nintendo
 
