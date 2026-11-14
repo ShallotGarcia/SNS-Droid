@@ -14,8 +14,6 @@ También puedes darle tu estilo con una foto de fondo y música incluida en el e
 
 El emulador está pensado para que jugar sea más fácil y accesible para todos, con una interfaz práctica y controles táctiles que puedes mover a tu gusto. SNS Droid detecta automáticamente los mandos Bluetooth que Android reconoce. Desde Ajustes puedes configurar manualmente los botones de tu mando externo para jugar a tu gusto. Todavía está en fase beta.
 
-Espero que les guste y que encuentren en SNS Droid un lugar para volver a sus juegos favoritos y descubrir nuevas aventuras de Super Nintendo. Gracias por probarlo.
-
 <p align="center">
   <a href="1-sns-droid-logo.png"><img src="1-sns-droid-logo.png" alt="SNS Droid" width="420"></a>
 </p>
@@ -173,3 +171,5 @@ SNS Droid nació como un primer proyecto, a partir de la idea de crear un emulad
   <img src="capturas/3-ajustes-rev11-abajo.png" alt="Ajustes: parte inferior" title="Ajustes: parte inferior" height="300">
   <img src="capturas/1-ajustes-apariencia.png" alt="Ajustes: Apariencia" title="Ajustes: Apariencia" height="300">
 </p>
+
+Espero que les guste y que encuentren en SNS Droid un lugar para volver a sus juegos favoritos y descubrir nuevas aventuras de Super Nintendo. Gracias por probarlo.
