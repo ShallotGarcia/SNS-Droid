@@ -1,12 +1,26 @@
+# SNS Droid
+
+Les presento mi primer proyecto: SNS Droid, un emulador de la consola Super Nintendo Entertainment System para dispositivos Android. Reúne tus juegos en la Biblioteca y ejecútalos desde allí. También puedes guardar tus partidas para retomarlas cuando quieras.
+
+Desde la Biblioteca puedes dar Me gusta a tus juegos con el corazón. Los juegos que marcas con el corazón aparecen en la sección Me gusta.
+
+Para añadir un juego a Favoritos, basta con usar la estrella junto al título del juego en la Biblioteca. La estrella queda marcada y el juego aparece también en la sección Favoritos, donde puedes encontrarlo y abrirlo para jugar. Si quieres quitarlo de Favoritos, vuelve a usar su estrella: el juego deja de aparecer en esa sección, pero sigue en tu Biblioteca.
+
+Me gusta y Favoritos son marcas independientes: puedes usar una, la otra o ambas en el mismo juego. La idea de incluir Me gusta y Favoritos está inspirada en TikTok, como una forma de señalar los juegos que te gustan y tener tus favoritos a mano. Estas marcas se quedan en tu biblioteca: no se publican ni se conectan con esa red social. También tienes Recientes para encontrar los últimos juegos que abriste.
+
+SNS Droid también incluye un apartado de Parches para aplicar traducciones u otras modificaciones a tus juegos de Super Nintendo. El juego modificado se guarda en un archivo nuevo, y el archivo original se conserva aparte.
+
+También puedes darle tu estilo con una foto de fondo y música incluida en el emulador o de tus propios archivos para acompañarte al recorrer la Biblioteca y los menús. Puedes elegir música por pantalla; al entrar a jugar, se detiene para dar paso al sonido del juego.
+
+El emulador está pensado para que jugar sea más fácil y accesible para todos, con una interfaz práctica y controles táctiles que puedes mover a tu gusto. SNS Droid detecta automáticamente los mandos Bluetooth que Android reconoce. Desde Ajustes puedes configurar manualmente los botones de tu mando externo para jugar a tu gusto. Todavía está en fase beta.
+
+Espero que les guste y que encuentren en SNS Droid un lugar para volver a sus juegos favoritos y descubrir nuevas aventuras de Super Nintendo. Gracias por probarlo.
+
 <p align="center">
   <a href="1-sns-droid-logo.png"><img src="1-sns-droid-logo.png" alt="SNS Droid" width="420"></a>
 </p>
 
 Imagen de presentación del proyecto. Es distinta del icono fijo de Android y de los 18 diseños de logo que se muestran dentro del emulador.
-
-# SNS Droid
-
-SNS Droid es un emulador de Super Nintendo para Android. Reúne la Biblioteca, los controles, las partidas y el parcheado de juegos dentro del mismo emulador.
 
 ## Al abrir SNS Droid
 
@@ -29,12 +43,9 @@ Entra en "Mis juegos" desde la pantalla de inicio para abrir la Biblioteca.
 - "Cargar juegos": abre el selector de carpetas. Elige la carpeta donde guardas tus juegos y permite su acceso para buscarlos y añadirlos a la Biblioteca. También puedes usar "Escanear juegos" desde Ajustes.
 - Buscador: escribe parte del nombre para encontrar un juego en la lista.
 - "Recientes": muestra los juegos que has abierto, del más reciente al más antiguo.
-- "Favoritos": reúne los juegos que marcas con la estrella. Tócala de nuevo para quitar la marca.
-- "Me gusta": reúne los juegos que marcas con el corazón, incluidos los que ya tenías marcados. Es una pestaña solo para consultarlos: tocar un juego o confirmar con el mando no lo inicia. Toca el corazón para marcar o quitar Me gusta. Es una marca distinta de Favoritos; una no activa la otra.
+- "Me gusta": es una pestaña solo para consultarlos: tocar un juego o confirmar con el mando no lo inicia. Toca el corazón de nuevo para quitar Me gusta.
 - Carátulas: las carátulas se descargan automáticamente cuando tienes conexión a internet, ya sea con datos móviles o Wi-Fi. Las que ya se descargaron siguen disponibles sin conexión. Si no hay una carátula guardada, no se encuentra una o no se puede descargar, se muestra un cuadro de color con las iniciales del nombre del juego; si no se pueden formar iniciales, aparece "SNES". El nombre del juego sigue visible.
 - Para jugar, toca un juego desde Biblioteca, Recientes o Favoritos. Puedes abrir juegos sueltos o dentro de ZIP y 7z, en los formatos admitidos.
-
-"Me gusta" y "Favoritos" están inspirados en la idea de marcar contenido en TikTok. Son marcas locales de tus juegos, no una conexión con esa red social.
 
 ## Controles y partidas
 
@@ -125,8 +136,6 @@ Los nombres largos se conservan completos siempre que el destino los admita. Se 
 
 Si eliges la salida como conjunto de archivos, la carpeta creada toma el nombre del parche, sin añadir números extra. Los dos archivos de dentro conservan sus nombres técnicos. Si guardas el conjunto en ZIP o 7z, el comprimido toma el nombre del parche y los archivos de dentro mantienen sus nombres técnicos. Si ya existe un archivo o carpeta con el nombre de la carpeta del conjunto, el emulador te avisa para elegir otra ubicación, sin sobrescribir lo anterior.
 
-La ROM original y el parche no se modifican.
-
 ## Compatibilidad y reportes
 
 Se trabajó para que funcione en Android 6 hasta Android 16, con juegos en ZIP y 7z, ROM hacks y juegos parcheados. Admite juegos de SNES de Japón, Estados Unidos y Europa, con detección automática de NTSC/PAL según la cabecera de la ROM, sin garantizar compatibilidad con todo el catálogo. También se fue ajustando para que corra mejor en teléfonos de pocos recursos.
@@ -140,8 +149,6 @@ Para reportar un problema, se puede abrir un issue en este repositorio e indicar
 ## Sobre el proyecto
 
 SNS Droid nació como un primer proyecto, a partir de la idea de crear un emulador propio, con su nombre y sus decisiones de diseño y funcionamiento. Se fue armando paso a paso, desde las versiones de prueba y las correcciones de fallos hasta las versiones Alpha y Beta.
-
-Se fueron agregando la biblioteca con buscador, los controles táctiles que se pueden mover, el soporte para mandos con botones configurables, los guardados rápidos y el autoguardado, la música y los sonidos personalizables, y Parches para aplicar hacks y traducciones sin tocar el juego original. También se agregaron "Me gusta" y "Favoritos" para darle un toque moderno a un emulador retro.
 
 ## Cómo instalar
 
